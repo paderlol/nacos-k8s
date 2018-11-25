@@ -4,7 +4,7 @@ kind: Service
 metadata:
   name: nacos-headless
   labels:
-    app: nacos-headless
+    app: nacos
 spec:
   ports:
   - port: 8848
